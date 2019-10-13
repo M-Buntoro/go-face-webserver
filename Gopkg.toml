@@ -1,0 +1,15 @@
+[[constraint]]
+  branch = "master"
+  name = "github.com/go-chi/chi"
+
+[[constraint]]
+  branch = "go1"
+  name = "github.com/adityayuga/goexif"
+
+[[constraint]]
+  name = "gocv.io/x/gocv"
+  version = "0.17.0"
+
+[[constraint]]
+  branch = "r1.7"
+  name = "github.com/tensorflow/tensorflow"

@@ -1,0 +1,7 @@
+{
+    "model_path": "/home/user/face-web/model.pb",
+    "haar_cascade": "/home/user/face-web/haarcascade_frontalface_default.xml",
+    "server": {
+        "port": 3000
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "model_path": "",
+    "haar_cascades": "",
+    "server": {
+        "port": 3000
+    }
+}
