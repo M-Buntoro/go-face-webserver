@@ -9,4 +9,4 @@ To run this app you will need to install several binaries which are listed below
 # models
 this implementation uses model from https://github.com/davidsandberg/facenet 
 which uses dataset from CASIA-WebFace and VGGFace2 as training data. <br/>
-for face detection Haar filter was provided by opencv which was created by Rainer Lienhart
+Face detection Haar filter was provided by opencv which was created by Rainer Lienhart.
